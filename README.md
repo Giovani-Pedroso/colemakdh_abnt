@@ -36,7 +36,7 @@ xkb_symbols "colemakbr" {
     key <AB01>	{ [         x,          X, guillemotleft,        less ]	};
     key <AB02>	{ [         c,          C, guillemotright,    greater ]	};
     key <AB03>	{ [         d,          D,         cent,    copyright ]	};
-    key <AB04>	{ [         v,          v,   doublelowquotemark, singlelowquotemark ]	};
+    key <AB04>	{ [         v,          V,   doublelowquotemark, singlelowquotemark ]	};
     key <AB05>	{ [       ccedilla,       Ccedilla ,  leftdoublequotemark, leftsinglequotemark ] };
     key <AB06>	{ [         k,          K, rightdoublequotemark, rightsinglequotemark ]	};
     key <AB07>	{ [         h,          H,            mu,    masculine ]	};
